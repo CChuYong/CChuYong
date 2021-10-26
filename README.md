@@ -1,6 +1,6 @@
 <h1 align="center">CChuYong</h3>
 
-<h3 align="center">🛠 사용할 수 있는 프레임워크/서비스 🛠</h3>
+<h3 align="center">🛠 사용할 수 있는 언어 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
