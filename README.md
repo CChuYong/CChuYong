@@ -1,5 +1,5 @@
 <h1 align="center">CChuYong</h3>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchuyong)](https://github.com/cchuyong)
 <h3 align="center">🛠 사용할 수 있는 언어 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
