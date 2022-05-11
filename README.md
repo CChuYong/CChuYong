@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchuyong)](https://github.com/cchuyong)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cchuyong&layout=compact)](https://github.com/cchuyong)
 <h1 align="center">CChuYong</h1>
 
 <h3 align="center">🛠 사용할 수 있는 언어 🛠</h3>
