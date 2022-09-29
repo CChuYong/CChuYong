@@ -1,6 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues)](https://github.com/cchuyong)
 <h1 align="center">CChuYong</h1>
-
 <h3 align="center">🛠 사용할 수 있는 언어 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -39,8 +37,9 @@
   <a href="mailto:jakgon6555@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jakgon6555@naver.com"/></a>
   <a href="mailto:jakgon6555@naver.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=jakgon6555@naver.com"/>
 </p></a>
-<br>
-<a href="https://blog.chuyong.kr/" align="center">블로그 보러가기</a>
+<br>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues)](https://github.com/cchuyong)
 
 
 
