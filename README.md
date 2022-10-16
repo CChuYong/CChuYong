@@ -31,7 +31,8 @@
 <br/>
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues)](https://github.com/cchuyong)
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CChuYong" alt="Git stats" height="160px" /></a>
 
 ## Contact
 
