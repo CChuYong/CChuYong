@@ -42,5 +42,6 @@
   <a href="https://www.instagram.com/fflowerggem__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fflowerggem__/"/></a>
   <a href="mailto:jakgon6555@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jakgon6555@gmail.com"/></a>
   <a href="mailto:jakgon6555@naver.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=jakgon6555@naver.com"/>
+  <a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 
 
