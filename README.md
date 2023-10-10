@@ -3,11 +3,18 @@
 어떻게 하면 최고의 성능을 내면서 고품질의 코드를 작성할 수 있을까 연구하는것에 흥미를 가지고 있습니다.
 <br/>
 
+## 📋 Projects & Careers
+- [SW Maestro](https://www.swmaestro.org/) Project Orderify (2022.05 ~ 2022.11)
+- [The Swing](https://swingmobility.co/) Backend & Infra engineering (2023.01 ~ 2023.07)
+- (Private) Project MagCloud (2023.06 ~ 2023.08)
+- (Private) Project Chois (2023.09 ~ NOW)
+
 ## 🛠 Development Stack
 주로 백엔드 개발과 인프라 운영에 관심을 가지고 있지만, 다양한 토이프로젝트 구현을 위해 풀스택의 기술을 가지고 있습니다.  
 최근 MSA 및 분산 아키텍쳐에 관심을 가지고 있고, 서비스의 고가용성 달성을 위한 설계를 좋아합니다.  
 대용량 트래픽 처리와 그에 상응하는 인프라 설계를 지향합니다.
 <br/>
+
 
 ### Primary Stack: 
 
@@ -33,6 +40,12 @@
 <br/>
 <br/>
 
+## 🏅 Certificates & Rewards
+- TOPCIT 595 (2022.10)
+- AWS Solutions Architect - Associate (2022.12)
+- TOEIC 895 (2023.08)
+<br/>
+
 ## 📊 GitHub Stats
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CChuYong" alt="Git stats" height="160px" /></a>
@@ -40,7 +53,7 @@
 ## ☎️ Contact Me
 
   <a href="https://www.instagram.com/fflowerggem__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fflowerggem__/"/></a>
-  <a href="mailto:jakgon6555@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jakgon6555@gmail.com"/></a>
+  <a href="mailto:yeongmin1061@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeongmin1061@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 
 
