@@ -44,6 +44,7 @@
 - TOPCIT 595 (2022.10)
 - AWS Solutions Architect - Associate (2022.12)
 - TOEIC 895 (2023.08)
+- Honam Collegiate CERT Challenge 2023 - Web Vulnerability Encouragement Award (2023.09)
 <br/>
 
 ## 📊 GitHub Stats
