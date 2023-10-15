@@ -6,8 +6,8 @@
 ## 📋 Projects & Careers
 - [SW Maestro](https://www.swmaestro.org/) Project Orderify (2022.05 ~ 2022.11)
 - [The Swing](https://swingmobility.co/) Backend & Infra engineering (2023.01 ~ 2023.07)
-- (Private) Project MagCloud (2023.06 ~ 2023.08)
-- (Private) Project Chois (2023.09 ~ NOW)
+- (Private) [Project MagCloud](https://github.com/magcloud-project) (2023.06 ~ 2023.08)
+- (Private) [Project Chois](https://github.com/chois-project) (2023.09 ~ NOW)
 
 ## 🛠 Development Stack
 주로 백엔드 개발과 인프라 운영에 관심을 가지고 있지만, 다양한 토이프로젝트 구현을 위해 풀스택의 기술을 가지고 있습니다.  
