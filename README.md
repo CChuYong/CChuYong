@@ -7,6 +7,7 @@
 - [SW Maestro](https://www.swmaestro.org/) Project Orderify (2022.05 ~ 2022.11)
 - [The Swing](https://swingmobility.co/) Backend & Infra engineering (2023.01 ~ 2023.07)
 - (Private) [Project MagCloud](https://github.com/magcloud-project) (2023.06 ~ 2023.08)
+- [Team Nagaza](https://github.com/NAGAZA-Team) Project Nagaza (2023.09 ~ NOW)
 - (Private) [Project Chois](https://github.com/chois-project) (2023.09 ~ NOW)
 
 ## 🛠 Development Stack
