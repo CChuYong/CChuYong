@@ -7,7 +7,7 @@
 - [SW Maestro](https://www.swmaestro.org/) Project Orderify (2022.05 ~ 2022.11)
 - [The Swing](https://swingmobility.co/) Backend & Infra engineering (2023.01 ~ 2023.07)
 - (Private) [Project MagCloud](https://github.com/magcloud-project) (2023.06 ~ 2023.08)
-- [Team Nagaza](https://github.com/NAGAZA-Team) Project Backend Engineering (2023.09 ~ NOW)
+- [Team Nagaza](https://github.com/NAGAZA-Team) Project Backend & Infra Engineering (2023.09 ~ NOW)
 - (Private) [Project Chois](https://github.com/chois-project) (2023.09 ~ NOW)
 
 ## 🛠 Development Stack
@@ -19,9 +19,9 @@
 
 ### Primary Stack: 
 
-<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
 <img align="left" alt="Kotlin" width="30px" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" />
 <img align="left" alt="SpringBoot" width="30px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
+<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
 <img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
 <img align="left" alt="Redis" width="30px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
 <img align="left" alt="Docker" width="30px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
@@ -46,7 +46,6 @@
 - AWS Solutions Architect - Associate (2022.12)
 - TOEIC 895 (2023.08)
 - Honam Collegiate CERT Challenge 2023 - Web Vulnerability Encouragement Award (2023.09)
-<br/>
 
 ## 📊 GitHub Stats
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
