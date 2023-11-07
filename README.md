@@ -146,31 +146,31 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td>IITP</td>
+      <td><a href="https://www.iitp.kr/main.it">IITP</a></td>
       <td>TOPCIT(Test Of Practical Competency in ICT)</td>
       <td>595</td>
       <td>2022.10</td>
     <tr>
     <tr>
-      <td>Amazon Web Services</td>
+      <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
       <td>AWS Solutions Architect - Associate</td>
       <td>Pass</td>
       <td>2022.12</td>
     </tr>
     <tr>
-      <td>YBM</td>
+      <td><a href="https://www.ybm.co.kr/">YBM</a></td>
       <td>TOEIC(Test Of English for International Communication)</td>
       <td>895</td>
       <td>2023.08</td>
     </tr>
     <tr>
-      <td>KEPCO & NIS</td>
+      <td><a href="https://home.kepco.co.kr/">KEPCO</a> & <a href="https://www.nis.go.kr/main.do">NIS</a></td>
       <td>Honam Collegiate CERT Challenge 2023 - Web Vulnerability</td>
       <td>Encouragement Award</td>
       <td>2023.09</td>
     </tr>
     <tr>
-      <td>Naver Cloud Platform</td>
+      <td><a href="https://www.ncloud.com/">Naver Cloud Platform</a></td>
       <td>Naver Cloud Platform - Certified Associate</td>
       <td>Pass</td>
       <td>2023.11</td>
