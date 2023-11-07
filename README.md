@@ -10,22 +10,47 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">Official</td>
-      <td>
-        <a href="https://www.swmaestro.org/">SW Maestro</a> Project Orderify (2022.05 ~ 2022.11)<br/>
-      <a href="https://swingmobility.co/">The Swing</a> Backend &amp; Infra engineering (2023.01 ~ 2023.07)<br/>
-      <a href="https://github.com/depromeet">Depromeet</a> Project ??? (2023.11 ~ NOW)<br/>
-      </td>
+      <th>Organization</th>
+      <th>Project Name</th>
+      <th>Role</th>
+      <th>Period</th>
     </tr>
     <tr>
-      <td align="center">Unofficial</td>
-      <td>
-          (Private) <a href="https://github.com/magcloud-project">Project MagCloud</a> (2023.06 ~ 2023.08)<br/>
-  <a href="https://github.com/NAGAZA-Team">Team Nagaza</a> Project Backend &amp; Infra Engineering (2023.09 ~ NOW)<br/>
-  (Private) <a href="https://github.com/chois-project">Project Chois</a> (2023.09 ~ NOW)<br/>
-      </td>
+      <td><a href="https://www.swmaestro.org/">SW Maestro</a></td>
+      <td><a href="https://github.com/SWMSplendor">Orderify</a></td>
+      <td>Team Leader, Full-Stack Engineering</td>
+      <td>2022.05 ~ 2022.11</td>
+    <tr>
+    <tr>
+      <td><a href="https://swingmobility.co/">The Swing</a></td>
+      <td>SWING</td>
+      <td>Backend & Infra Engineering</td>
+      <td>2023.01 ~ 2023.07</td>
     </tr>
-
+    <tr>
+      <td>Unofficial</td>
+      <td><a href="https://github.com/magcloud-project">MagCloud</a></td>
+      <td>Private Project, Full-Stack Engineering</td>
+      <td>2023.06 ~ 2023.08</td>
+    </tr>
+    <tr>
+      <td>Unofficial</td>
+      <td><a href="https://github.com/chois-project">Chois Project</a></td>
+      <td>Private Project, Full-Stack Engineering</td>
+      <td>2023.09 ~ NOW</td>
+    </tr>
+    <tr>
+      <td>Unofficial</td>
+      <td><a href="https://github.com/NAGAZA-Team">Project Nagaza</a></td>
+      <td>Backend & Infra Engineering</td>
+      <td>2023.10 ~ NOW</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/depromeet">Depromeet</a></td>
+      <td></td>
+      <td>Backend & Infra Engineering</td>
+      <td>2023.11 ~ NOW</td>
+    </tr>
   </table>
 </div>
 
@@ -112,10 +137,40 @@
 
 
 ## 🏅 Certificates & Rewards
-- TOPCIT 595 (2022.10)
-- AWS Solutions Architect - Associate (2022.12)
-- TOEIC 895 (2023.08)
-- Honam Collegiate CERT Challenge 2023 - Web Vulnerability Encouragement Award (2023.09)
+<div align="center">
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Certificate/Reward Name</th>
+      <th>Score/Grade</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td>IITP</td>
+      <td>TOPCIT</td>
+      <td>595</td>
+      <td>2022.10</td>
+    <tr>
+    <tr>
+      <td>Amazon Web Services</td>
+      <td>Solutions Architect - Associate</td>
+      <td>Pass</td>
+      <td>2022.12</td>
+    </tr>
+    <tr>
+      <td>YBM</td>
+      <td>TOEIC</td>
+      <td>895</td>
+      <td>2023.08</td>
+    </tr>
+    <tr>
+      <td>KEPCO & NIS</td>
+      <td>Honam Collegiate CERT Challenge 2023 - Web Vulnerability</td>
+      <td>Encouragement Award</td>
+      <td>2023.09</td>
+    </tr>
+  </table>
+</div>
 <br/>
 
 ## 📊 GitHub Stats
