@@ -147,19 +147,19 @@
     </tr>
     <tr>
       <td>IITP</td>
-      <td>TOPCIT</td>
+      <td>TOPCIT(Test Of Practical Competency in ICT)</td>
       <td>595</td>
       <td>2022.10</td>
     <tr>
     <tr>
       <td>Amazon Web Services</td>
-      <td>Solutions Architect - Associate</td>
+      <td>AWS Solutions Architect - Associate</td>
       <td>Pass</td>
       <td>2022.12</td>
     </tr>
     <tr>
       <td>YBM</td>
-      <td>TOEIC</td>
+      <td>TOEIC(Test Of English for International Communication)</td>
       <td>895</td>
       <td>2023.08</td>
     </tr>
