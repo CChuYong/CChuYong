@@ -20,30 +20,46 @@
 대용량 트래픽 처리와 그에 상응하는 인프라 설계를 지향합니다.
 <br/>
 
-
-### Primary Stack: 
-
-<img align="left" alt="Kotlin" width="30px" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" />
-<img align="left" alt="SpringBoot" width="30px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
-<img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
-<img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
-<img align="left" alt="Redis" width="30px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
-<img align="left" alt="Docker" width="30px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-<img align="left" alt="Kubernetes" width="30px" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
-<img align="left" alt="AWS" width="30px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
-<img align="left" alt="Ubuntu" width="30px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
+<div>
+  <h3>Backend</h3>
+  <div>
+    <img align="left" alt="Kotlin" width="30px" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" />
+    <img align="left" alt="SpringBoot" width="30px" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" />
+    <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
+    <img align="left" alt="Nest.JS" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" />
+    <img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
+    <img align="left" alt="Redis" width="30px" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" />
+    <img align="left" alt="Cassandra" width="30px" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" />
+    <img align="left" alt="Kafka" width="30px" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" />
+    <br/>
+  </div>
+  <h3>Infrasturcture</h3>
+  <div>
+    <img align="left" alt="Docker" width="30px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+    <img align="left" alt="Kubernetes" width="30px" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
+    <img align="left" alt="AWS" width="30px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
+    <img align="left" alt="Ubuntu" width="30px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
+    <img align="left" alt="Terraform" width="30px" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" />
+    <img align="left" alt="ArgoCD" width="30px" src="https://github.com/CChuYong/CChuYong/assets/67673493/36e7ac41-cdd7-4f06-be7b-36073ceed43f" />
+    <br/>
+  </div>
+  <h3>Frontend & ETC</h3>
+  <div>
+    <img align="left" alt="Flutter" width="30px" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" />
+    <img align="left" alt="Selenium" width="30px" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />
+    <img align="left" alt="HTML" width="30px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
+    <img align="left" alt="Tailwind" width="30px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />
+    <img align="left" alt="CSS" width="30px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />
+    <img align="left" alt="TypeScript" width="30px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
+    <img align="left" alt="NextJS" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" />
+    <img align="left" alt="React" width="30px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
+    <img align="left" alt="NodeJS" width="30px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
+    <img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" />
+    <br/>
+  </div>
+</div>
 <br/>
 
-### Secondary Stack: 
-<img align="left" alt="Selenium" width="30px" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" />
-<img align="left" alt="HTML" width="30px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
-<img align="left" alt="CSS" width="30px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />
-<img align="left" alt="TypeScript" width="30px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
-<img align="left" alt="React" width="30px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
-<img align="left" alt="NodeJS" width="30px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
-<img align="left" alt="Redux" width="30px" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" />
-<br/>
-<br/>
 
 ## 🏅 Certificates & Rewards
 - TOPCIT 595 (2022.10)
