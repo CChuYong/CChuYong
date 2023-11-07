@@ -169,6 +169,12 @@
       <td>Encouragement Award</td>
       <td>2023.09</td>
     </tr>
+    <tr>
+      <td>Naver Cloud Platform</td>
+      <td>Naver Cloud Platform - Certified Associate</td>
+      <td>Pass</td>
+      <td>2023.11</td>
+    </tr>
   </table>
 </div>
 <br/>
