@@ -46,7 +46,7 @@
       <td>2023.10 ~ NOW</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/depromeet">Depromeet</a></td>
+      <td><a href="https://www.depromeet.com/">Depromeet</a></td>
       <td></td>
       <td>Backend & Infra Engineering</td>
       <td>2023.11 ~ NOW</td>
