@@ -1,13 +1,13 @@
-## 🧐 About me
 <div align="center">
+  <h2>🧐 About me</h2>
 하고싶은 개발 주제가 생기면 설상 처음 해보는 타입의 개발이더라도 맨땅에 헤딩하면서 어떻게든 해결하는 성격이 있습니다.<br/>
 어떻게 하면 최고의 성능을 내면서 고품질의 코드를 작성할 수 있을까 연구하는것에 흥미를 가지고 있습니다.
 </div>
 
 <br/>
 
-## 📋 Projects & Careers
 <div align="center">
+    <h2>📋 Projects & Careers</h2>
   <table>
     <tr>
       <th>Organization</th>
@@ -55,9 +55,9 @@
 </div>
 
 
-## 🛠 Development Stack
 
 <div align="center">
+  <h2>🛠 Development Stack</h2>
   주로 백엔드 개발과 인프라 운영 위주로 학습 및 개발을 진행하지만, 다양한 토이프로젝트의 PoC등을 위해 풀스택의 기술을 학습하고 있습니다.<br/>
   최근 MSA 및 분산 아키텍쳐에 관심을 가지고 있고, 서비스의 고가용성 및 DR 대응을 위한 설계를 좋아합니다.<br/>
   대용량 트래픽 처리와 그에 상응하는 인프라 설계를 지향합니다. 현재 서비스들의 상태를 추적할 수 있는 모니터링 체계 구축 역시 학습중입니다.<br/><br/>
@@ -135,9 +135,8 @@
 </div>
 <br/>
 
-
-## 🏅 Certificates & Rewards
 <div align="center">
+  <h2>🏅 Certificates & Rewards</h2>
   <table>
     <tr>
       <th>Organization</th>
@@ -179,14 +178,15 @@
 </div>
 <br/>
 
-## 📊 GitHub Stats
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CChuYong" alt="Git stats" height="160px" /></a>
-<br/>
-
-## ☎️ Contact Me
-<a href="https://www.instagram.com/fflowerggem__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fflowerggem__/"/></a>
-<a href="mailto:yeongmin1061@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeongmin1061@gmail.com"/></a>
-<a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CChuYong" alt="Git stats" height="160px" /></a>
+  <br/>
+  <h2>☎️ Contact Me</h2>
+  <a href="https://www.instagram.com/fflowerggem__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fflowerggem__/"/></a>
+  <a href="mailto:yeongmin1061@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeongmin1061@gmail.com"/></a>
+  <a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+</div>
 
 
