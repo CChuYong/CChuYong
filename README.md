@@ -174,6 +174,12 @@
       <td>Pass</td>
       <td>2023.11</td>
     </tr>
+    <tr>
+      <td><a href="https://www.linuxfoundation.org/">The Linux Foundation</a></td>
+      <td>Certified Kubernetes Administrator (CKA)</td>
+      <td>Pass</td>
+      <td>2023.11</td>
+    </tr>
   </table>
 </div>
 <br/>
