@@ -47,7 +47,7 @@
     </tr>
     <tr>
       <td><a href="https://www.depromeet.com/">Depromeet</a></td>
-      <td><a href="https://github.com/depromeet/14th-team5-BE">No5ing</a></td>
+      <td><a href="https://github.com/depromeet/14th-team5-BE">PPiPPi</a></td>
       <td>Team Leader, Backend & Infra Engineering</td>
       <td>2023.11 ~ NOW</td>
     </tr>
