@@ -182,7 +182,7 @@
     </tr>
     <tr>
       <td><a href="https://www.depromeet.com/">Depromeet</a></td>
-      <td>14th Team Project Reward</td>
+      <td>Depromeet 14th Team Project Reward</td>
       <td>1st Award</td>
       <td>2024.02</td>
     </tr>
