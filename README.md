@@ -180,6 +180,12 @@
       <td>Pass</td>
       <td>2023.11</td>
     </tr>
+    <tr>
+      <td><a href="https://www.depromeet.com/">Depromeet</a></td>
+      <td><a href="https://github.com/depromeet/14th-team5-BE">14th Team Project Reward</a></td>
+      <td>1st Award</td>
+      <td>2024.02</td>
+    </tr>
   </table>
 </div>
 <br/>
