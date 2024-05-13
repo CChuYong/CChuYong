@@ -51,6 +51,12 @@
       <td>Team Leader, Backend & Infra Engineering</td>
       <td>2023.11 ~ NOW</td>
     </tr>
+    <tr>
+      <td><a href="https://yapp.co.kr/">Yapp</a></td>
+      <td><a href="#">?</a></td>
+      <td>?</td>
+      <td>2024.05 ~ NOW</td>
+    </tr>
   </table>
 </div>
 
