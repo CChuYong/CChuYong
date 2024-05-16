@@ -58,7 +58,7 @@
       <td>2024.04 ~ NOW</td>
     </tr>
     <tr>
-      <td><a href="https://yapp.co.kr/">Yapp</a></td>
+      <td><a href="https://yapp.co.kr/">YAPP</a></td>
       <td><a href="#">?</a></td>
       <td>?</td>
       <td>2024.05 ~ NOW</td>
