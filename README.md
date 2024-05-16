@@ -52,6 +52,12 @@
       <td>2023.11 ~ NOW</td>
     </tr>
     <tr>
+      <td><a href="https://www.depromeet.com/">Depromeet</a></td>
+      <td><a href="https://github.com/depromeet/depromeet-makers-be">Depromeet Makers</a></td>
+      <td>Backend & Infra Engineering</td>
+      <td>2024.04 ~ NOW</td>
+    </tr>
+    <tr>
       <td><a href="https://yapp.co.kr/">Yapp</a></td>
       <td><a href="#">?</a></td>
       <td>?</td>
