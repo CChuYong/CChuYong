@@ -37,7 +37,7 @@
       <td>Unofficial</td>
       <td><a href="https://github.com/chois-project">Chois Project</a></td>
       <td>Private Project, Full-Stack Engineering</td>
-      <td>2023.09 ~ NOW</td>
+      <td>2023.09 ~ SUSPENDED</td>
     </tr>
     <tr>
       <td>Unofficial</td>
