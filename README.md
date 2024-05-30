@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td><a href="https://yapp.co.kr/">YAPP</a></td>
-      <td><a href="#">?</a></td>
+      <td><a href="#">Backend & Infra Engineering</a></td>
       <td>?</td>
       <td>2024.05 ~ NOW</td>
     </tr>
