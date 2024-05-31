@@ -28,7 +28,7 @@
       <td>2023.01 ~ 2023.07</td>
     </tr>
     <tr>
-      <td>Unofficial</td>
+      <td>Team-Nagaza</td>
       <td><a href="https://github.com/NAGAZA-Team">Project Nagaza</a></td>
       <td>Backend & Infra Engineering</td>
       <td>2023.10 ~ NOW</td>
