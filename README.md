@@ -7,14 +7,8 @@
 <br/>
 
 <div align="center">
-    <h2>📋 Projects & Careers</h2>
+    <h2>📋 Production Projects & Careers</h2>
   <table>
-    <tr>
-      <th>Organization</th>
-      <th>Project Name</th>
-      <th>Role</th>
-      <th>Period</th>
-    </tr>
     <tr>
       <td><a href="https://www.swmaestro.org/">SW Maestro</a></td>
       <td><a href="https://github.com/SWMSplendor">Orderify</a></td>
@@ -26,18 +20,6 @@
       <td>SWING</td>
       <td>Backend & Infra Engineering</td>
       <td>2023.01 ~ 2023.07</td>
-    </tr>
-    <tr>
-      <td>Unofficial</td>
-      <td><a href="https://github.com/magcloud-project">MagCloud</a></td>
-      <td>Private Project, Full-Stack Engineering</td>
-      <td>2023.06 ~ 2023.08</td>
-    </tr>
-    <tr>
-      <td><del>Unofficial</del></td>
-      <td><a href="https://github.com/chois-project"><del>Chois Project</del></a></td>
-      <td><del>Private Project, Full-Stack Engineering</del></td>
-      <td>2023.09 ~ SUSPENDED</td>
     </tr>
     <tr>
       <td>Unofficial</td>
@@ -64,9 +46,102 @@
       <td>2024.05 ~ NOW</td>
     </tr>
   </table>
+  <h2>🔒 Private(Toy) Projects</h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Project Name</th>
+      <th>Role</th>
+      <th>Period</th>
+    </tr> 
+    <tr>
+      <td>Unofficial</td>
+      <td><a href="https://github.com/magcloud-project">MagCloud</a></td>
+      <td>Private Project, Full-Stack Engineering</td>
+      <td>2023.06 ~ 2023.08</td>
+    </tr>
+    <tr>
+      <td><del>Unofficial</del></td>
+      <td><a href="https://github.com/chois-project"><del>Chois Project</del></a></td>
+      <td><del>Private Project, Full-Stack Engineering</del></td>
+      <td>2023.09 ~ SUSPENDED</td>
+    </tr>
+    
+  </table>
+
 </div>
+<br/>
 
-
+<div align="center">
+  <h2>🏅 Certificates & Rewards</h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Certificate/Reward Name</th>
+      <th>Score/Grade</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td><a href="https://www.iitp.kr/main.it">IITP</a></td>
+      <td>TOPCIT(Test Of Practical Competency in ICT)</td>
+      <td>595</td>
+      <td>2022.10</td>
+    <tr>
+    <tr>
+      <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
+      <td>AWS Solutions Architect - Associate</td>
+      <td>Pass</td>
+      <td>2022.12</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.ncloud.com/">Naver Cloud Platform</a></td>
+      <td>Naver Cloud Platform - Certified Associate</td>
+      <td>Pass</td>
+      <td>2023.11</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.linuxfoundation.org/">The Linux Foundation</a></td>
+      <td>Certified Kubernetes Administrator (CKA)</td>
+      <td>Pass</td>
+      <td>2023.11</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.kdata.or.kr/">KData</a></td>
+      <td>SQL Developer (SQLD)</td>
+      <td>Pass</td>
+      <td>2024.03</td>
+    </tr>
+  </table>
+  <br/>
+    <h2>🏅 ETC (Rewards, Foreign..)</h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Certificate/Reward Name</th>
+      <th>Score/Grade</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td><a href="https://www.ybm.co.kr/">YBM</a></td>
+      <td>TOEIC(Test Of English for International Communication)</td>
+      <td>895</td>
+      <td>2023.08</td>
+    </tr>
+    <tr>
+      <td><a href="https://home.kepco.co.kr/">KEPCO</a> & <a href="https://www.nis.go.kr/main.do">NIS</a></td>
+      <td>Honam Collegiate CERT Challenge 2023 - Web Vulnerability</td>
+      <td>Encouragement Award</td>
+      <td>2023.09</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.depromeet.com/">Depromeet</a></td>
+      <td>Depromeet 14th Team Project Reward</td>
+      <td>1st Award</td>
+      <td>2024.02</td>
+    </tr>
+  </table>
+</div>
+<br/>
 
 <div align="center">
   <h2>🛠 Development Stack</h2>
@@ -145,68 +220,6 @@
     </tr>
   </table>
 </div>
-<br/>
-
-<div align="center">
-  <h2>🏅 Certificates & Rewards</h2>
-  <table>
-    <tr>
-      <th>Organization</th>
-      <th>Certificate/Reward Name</th>
-      <th>Score/Grade</th>
-      <th>Period</th>
-    </tr>
-    <tr>
-      <td><a href="https://www.iitp.kr/main.it">IITP</a></td>
-      <td>TOPCIT(Test Of Practical Competency in ICT)</td>
-      <td>595</td>
-      <td>2022.10</td>
-    <tr>
-    <tr>
-      <td><a href="https://aws.amazon.com/ko/certification/">Amazon Web Services</a></td>
-      <td>AWS Solutions Architect - Associate</td>
-      <td>Pass</td>
-      <td>2022.12</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.ybm.co.kr/">YBM</a></td>
-      <td>TOEIC(Test Of English for International Communication)</td>
-      <td>895</td>
-      <td>2023.08</td>
-    </tr>
-    <tr>
-      <td><a href="https://home.kepco.co.kr/">KEPCO</a> & <a href="https://www.nis.go.kr/main.do">NIS</a></td>
-      <td>Honam Collegiate CERT Challenge 2023 - Web Vulnerability</td>
-      <td>Encouragement Award</td>
-      <td>2023.09</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.ncloud.com/">Naver Cloud Platform</a></td>
-      <td>Naver Cloud Platform - Certified Associate</td>
-      <td>Pass</td>
-      <td>2023.11</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.linuxfoundation.org/">The Linux Foundation</a></td>
-      <td>Certified Kubernetes Administrator (CKA)</td>
-      <td>Pass</td>
-      <td>2023.11</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.depromeet.com/">Depromeet</a></td>
-      <td>Depromeet 14th Team Project Reward</td>
-      <td>1st Award</td>
-      <td>2024.02</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.kdata.or.kr/">KData</a></td>
-      <td>SQL Developer (SQLD)</td>
-      <td>Pass</td>
-      <td>2024.03</td>
-    </tr>
-  </table>
-</div>
-<br/>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
