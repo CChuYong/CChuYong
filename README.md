@@ -99,21 +99,27 @@
     <h3>🔒 Private(Toy) Projects</h3>
   <table>
     <tr>
-      <th>Organization</th>
+      <th>Type</th>
       <th>Project Name</th>
-      <th>Role</th>
+      <th>Key Stacks</th>
       <th>Period</th>
-    </tr> 
+    </tr>
     <tr>
-      <td>Unofficial</td>
+      <td>Full-Stack</td>
+      <td><a href="https://github.com/CChuYong/dogsound-counter-api">BadSound Counter</a></td>
+      <td>SpringBoot WebFlux, Cassandra, Clean-Architecture</td>
+      <td>2023.04 ~ 2023.06</td>
+    </tr>
+    <tr>
+      <td>Full-Stack</td>
       <td><a href="https://github.com/magcloud-project">MagCloud</a></td>
-      <td>Private Project, Full-Stack Engineering</td>
+      <td>SpringBoot MVC, Flutter, Kubernetes(EKS), Terraform</td>
       <td>2023.06 ~ 2023.08</td>
     </tr>
     <tr>
-      <td><del>Unofficial</del></td>
+      <td><del>Full-Stack</del></td>
       <td><a href="https://github.com/chois-project"><del>Chois Project</del></a></td>
-      <td><del>Private Project, Full-Stack Engineering</del></td>
+      <td><del>Flutter, Backend-For-Frontend(Nest.JS), Local Scraping</del></td>
       <td>2023.09 ~ SUSPENDED</td>
     </tr>
     
@@ -225,18 +231,16 @@
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CChuyong&layout=compact&hide=issues" alt="Git Prim stats" height="160px" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CChuYong" alt="Git stats" height="160px" /></a>
   <img src="https://render.gitanimals.org/lines/cchuyong?pet-id=1" height="140px" width="140px"/>
   <br/>
-  <h2>☎️ Contact Me</h2>
   <a href="https://www.instagram.com/fflowerggem__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fflowerggem__/"/></a>
   <a href="mailto:yeongmin1061@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeongmin1061@gmail.com"/></a>
   <a href="https://www.linkedin.com/in/yeongminsong/"><image src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
 </div>
+
+
+
 
 
