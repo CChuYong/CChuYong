@@ -10,6 +10,12 @@
     <h2>📋 Production Projects & Careers</h2>
   <table>
     <tr>
+      <th>Organization</th>
+      <th>Project Name</th>
+      <th>Role</th>
+      <th>Period</th>
+    </tr> 
+    <tr>
       <td><a href="https://www.swmaestro.org/">SW Maestro</a></td>
       <td><a href="https://github.com/SWMSplendor">Orderify</a></td>
       <td>Team Leader, Full-Stack Engineering</td>
@@ -46,34 +52,8 @@
       <td>2024.05 ~ NOW</td>
     </tr>
   </table>
-  <h2>🔒 Private(Toy) Projects</h2>
-  <table>
-    <tr>
-      <th>Organization</th>
-      <th>Project Name</th>
-      <th>Role</th>
-      <th>Period</th>
-    </tr> 
-    <tr>
-      <td>Unofficial</td>
-      <td><a href="https://github.com/magcloud-project">MagCloud</a></td>
-      <td>Private Project, Full-Stack Engineering</td>
-      <td>2023.06 ~ 2023.08</td>
-    </tr>
-    <tr>
-      <td><del>Unofficial</del></td>
-      <td><a href="https://github.com/chois-project"><del>Chois Project</del></a></td>
-      <td><del>Private Project, Full-Stack Engineering</del></td>
-      <td>2023.09 ~ SUSPENDED</td>
-    </tr>
-    
-  </table>
-
-</div>
-<br/>
-
-<div align="center">
-  <h2>🏅 Certificates & Rewards</h2>
+  <br/>
+    <h2>🏅 Certificates & Rewards</h2>
   <table>
     <tr>
       <th>Organization</th>
@@ -112,8 +92,34 @@
       <td>2024.03</td>
     </tr>
   </table>
+</div>
+<br/>
+
+<div align="center">
+    <h3>🔒 Private(Toy) Projects</h3>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Project Name</th>
+      <th>Role</th>
+      <th>Period</th>
+    </tr> 
+    <tr>
+      <td>Unofficial</td>
+      <td><a href="https://github.com/magcloud-project">MagCloud</a></td>
+      <td>Private Project, Full-Stack Engineering</td>
+      <td>2023.06 ~ 2023.08</td>
+    </tr>
+    <tr>
+      <td><del>Unofficial</del></td>
+      <td><a href="https://github.com/chois-project"><del>Chois Project</del></a></td>
+      <td><del>Private Project, Full-Stack Engineering</del></td>
+      <td>2023.09 ~ SUSPENDED</td>
+    </tr>
+    
+  </table>
   <br/>
-    <h2>🏅 ETC (Rewards, Foreign..)</h2>
+    <h3>🏅 ETC (Rewards, Foreign..)</h3>
   <table>
     <tr>
       <th>Organization</th>
