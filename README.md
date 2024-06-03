@@ -53,7 +53,7 @@
     </tr>
   </table>
   <br/>
-    <h2>🏅 Certificates & Rewards</h2>
+    <h2>🏅 Certificates & Tests</h2>
   <table>
     <tr>
       <th>Organization</th>
