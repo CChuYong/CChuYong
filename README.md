@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-    <h2>📋 Production Projects & Careers</h2>
+    <h2>📋 Projects & Careers</h2>
   <table>
     <tr>
       <th>Organization</th>
