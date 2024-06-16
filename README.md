@@ -151,6 +151,12 @@
       <td>1st Award</td>
       <td>2024.02</td>
     </tr>
+    <tr>
+      <td><a href="https://likelion.university/">LikeLion</a></td>
+      <td>12th LikeLion University HQ</td>
+      <td>Operation Team</td>
+      <td>2024.03~</td>
+    </tr>
   </table>
 </div>
 <br/>
