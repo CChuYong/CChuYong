@@ -47,8 +47,8 @@
     </tr>
     <tr>
       <td><a href="https://yapp.co.kr/">YAPP</a></td>
-      <td><a href="https://github.com/YAPP-Github/24th-Web-Team-3-BE">MyFrame</a></td>
-      <td>Backend & Infra Engineering</td>
+      <td><a href="https://github.com/YAPP-Github/mafoo-backend">MAFOO</a></td>
+      <td>Backend & Infra Engineerin</td>
       <td>2024.05 ~ NOW</td>
     </tr>
   </table>
