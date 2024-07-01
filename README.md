@@ -134,16 +134,16 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://www.ybm.co.kr/">KDN</a></td>
-      <td>TOEIC(Test Of English for International Communication)</td>
-      <td>895</td>
-      <td>2023.08</td>
-    </tr>
-    <tr>
       <td><a href="https://www.kdn.com/">KDN</a></td>
       <td>Weekend ICT Education Volunteer</td>
       <td>Instructor</td>
       <td>21/08~21/09, 22/08~22/09</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.ybm.co.kr/">YBM</a></td>
+      <td>TOEIC(Test Of English for International Communication)</td>
+      <td>895</td>
+      <td>2023.08</td>
     </tr>
     <tr>
       <td><a href="https://home.kepco.co.kr/">KEPCO</a> & <a href="https://www.nis.go.kr/main.do">NIS</a></td>
