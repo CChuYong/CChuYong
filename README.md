@@ -165,7 +165,7 @@
     </tr>
     <tr>
       <td><a href="https://nia.or.kr/">NIA</a> & <a href="https://worldfriendskorea.or.kr/">WFK</a></td>
-      <td>WFK 2024 IT Volunteer Program</td>
+      <td>WFK 2024 Foreign IT Volunteer Program - Nepal</td>
       <td>Volunteer</td>
       <td>2024.07~2024.08</td>
     </tr>
