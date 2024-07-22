@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td><a href="https://www.depromeet.com/">Depromeet</a></td>
-      <td><a href="https://github.com/depromeet/14th-team5-BE">BBiBBi</a></td>
+      <td><a href="https://github.com/depromeet/14th-team5-BE">BiBBi</a></td>
       <td>Team Leader, Backend & Infra Engineering</td>
       <td>2023.11 ~ NOW</td>
     </tr>
@@ -43,7 +43,7 @@
       <td><a href="https://www.depromeet.com/">Depromeet</a></td>
       <td><a href="https://github.com/depromeet/depromeet-makers-be">Depromeet Makers</a></td>
       <td>Backend & Infra Engineering</td>
-      <td>2024.04 ~ NOW</td>
+      <td>2024.04 ~ 2024.05</td>
     </tr>
     <tr>
       <td><a href="https://yapp.co.kr/">YAPP</a></td>
