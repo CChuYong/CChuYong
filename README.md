@@ -23,7 +23,7 @@
     <tr>
     <tr>
       <td><a href="https://swingmobility.co/">The Swing</a></td>
-      <td>SWING</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.co.swing">SWING<a/></td>
       <td>Backend & Infra Engineering</td>
       <td>2023.01 ~ 2023.07</td>
     </tr>
