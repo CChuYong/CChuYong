@@ -152,6 +152,12 @@
       <td>2023.09</td>
     </tr>
     <tr>
+      <td><a href="https://www.gjrip.or.kr/">GJRIP</a></td>
+      <td>AI/SW Startup Camp IR Pitching Contest</td>
+      <td>2nd Award</td>
+      <td>2023.11</td>
+    </tr>
+    <tr>
       <td><a href="https://www.depromeet.com/">Depromeet</a></td>
       <td>Depromeet 14th Team Project Reward</td>
       <td>1st Award</td>
