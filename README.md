@@ -51,6 +51,12 @@
       <td>Backend & Infra Engineering</td>
       <td>2024.05 ~ NOW</td>
     </tr>
+    <tr>
+      <td><a href="https://www.daangnpay.com/">Daangn Pay</a></td>
+      <td><a href="https://www.daangnpay.com/">Daangn Pay</a></td>
+      <td>Backend Engineer Internship</td>
+      <td>2024.08 ~ NOW</td>
+    </tr>
   </table>
   <br/>
     <h2>🏅 Certificates & Tests</h2>
