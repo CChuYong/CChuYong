@@ -28,12 +28,6 @@
       <td>2023.01 ~ 2023.07</td>
     </tr>
     <tr>
-      <td>Team-Nagaza</td>
-      <td><a href="https://github.com/NAGAZA-Team">Project Nagaza</a></td>
-      <td>Backend & Infra Engineering</td>
-      <td>2023.10 ~ NOW</td>
-    </tr>
-    <tr>
       <td><a href="https://www.depromeet.com/">Depromeet</a></td>
       <td><a href="https://github.com/depromeet/14th-team5-BE">BiBBi</a></td>
       <td>Team Leader, Backend & Infra Engineering</td>
