@@ -48,7 +48,7 @@
     <tr>
       <td><a href="https://www.daangnpay.com/">Daangn Pay</a></td>
       <td><a href="https://www.daangnpay.com/">Daangn Pay</a></td>
-      <td>Backend Engineer Internship</td>
+      <td>Software Engineer, Backend</td>
       <td>2024.08 ~ NOW</td>
     </tr>
   </table>
@@ -174,6 +174,12 @@
       <td>WFK 2024 Foreign IT Volunteer Program - Nepal</td>
       <td>Volunteer</td>
       <td>2024.07~2024.08</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.dxchallenge.co.kr/about-1">DX Challenge</a></td>
+      <td>Dive 2024 Global Data Hackathon</td>
+      <td>3rd Award</td>
+      <td>2024.10</td>
     </tr>
   </table>
 </div>
