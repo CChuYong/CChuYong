@@ -46,7 +46,7 @@
       <td>2024.05 ~ NOW</td>
     </tr>
     <tr>
-      <td><a href="https://www.daangnpay.com/">Daangn Pay</a></td>
+      <td><a href="https://www.daangn.com/">Daangn</a></td>
       <td><a href="https://www.daangnpay.com/">Daangn Pay</a></td>
       <td>Software Engineer, Backend</td>
       <td>2024.08 ~ NOW</td>
